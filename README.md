@@ -64,4 +64,4 @@
 
 ## 📫 Let's Connect
 - 📧 [Email Me](mailto:dennistonzo08@gmail.com)  
-- 🌐 [Portfolio Website](https://github.com/dennistonzo08)  
+- 🌐 [Portfolio Website](https://dennistonzo08.github.io/my-portfolio/)  
