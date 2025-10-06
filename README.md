@@ -4,8 +4,8 @@
 📍 Davao City, Philippines  
 
 [![Gmail Badge](https://img.shields.io/badge/-dennistonzo08@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dennistonzo08@gmail.com)](mailto:dennistonzo08@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/](https://www.linkedin.com/in/dtonzo) 
-[![GitHub Badge](https://img.shields.io/badge/-DennisTonzo-black?style=flat&logo=github&logoColor=white&link=https://github.com/YourGitHub)](https://github.com/dennistonzo08)  
+[![LinkedIn Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dtonzo)](https://www.linkedin.com/in/dtonzo) 
+[![GitHub Badge](https://img.shields.io/badge/-DennisTonzo-black?style=flat&logo=github&logoColor=white&link=https://github.com/dennistonzo08)](https://github.com/dennistonzo08)  
 
 ---
 
@@ -57,8 +57,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHub&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHub&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennistonzo08&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennistonzo08&layout=compact&theme=tokyonight)  
 
 ---
 
