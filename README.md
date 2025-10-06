@@ -4,7 +4,7 @@
 📍 Davao City, Philippines  
 
 [![Gmail Badge](https://img.shields.io/badge/-dennistonzo08@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dennistonzo08@gmail.com)](mailto:dennistonzo08@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dtonzo)](https://www.linkedin.com/in/dtonzo) 
+[![LinkedIn Badge](https://img.shields.io/badge/-DennisTonzo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dtonzo)](https://www.linkedin.com/in/dtonzo) 
 [![GitHub Badge](https://img.shields.io/badge/-DennisTonzo-black?style=flat&logo=github&logoColor=white&link=https://github.com/dennistonzo08)](https://github.com/dennistonzo08)  
 
 ---
